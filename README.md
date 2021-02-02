@@ -10,7 +10,8 @@
 This application can be used to write, save, and delete notes. Using an express backend to save, and retrieve note data from a JSON file 
 ## URL
 [Click here to see the live site!]()
-![Screenshot Deployed Website]()
+![Screenshot Deployed Website](public/assets/index.png)
+![Screenshot Deployed Website](public/assets/notes.png)
 ## Installation
 Clone the repo and run npm install for the required dependencies.
 
