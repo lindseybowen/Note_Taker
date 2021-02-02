@@ -1,22 +1,14 @@
 {
-  "name": "package.json",
+  "name": "note-taker",
   "version": "1.0.0",
-  "description": "A web application that cam be used to write, save, and delete notes.",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lindseybowen/Note_Taker.git"
-  },
-  "author": "lindseybowen",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lindseybowen/Note_Taker/issues"
-  },
-  "homepage": "https://github.com/lindseybowen/Note_Taker#readme",
   "dependencies": {
-    "package-lock.json": "^1.0.0"
+    "express": "^4.16.4"
   }
 }
